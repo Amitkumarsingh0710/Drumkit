@@ -1,0 +1,46 @@
+.body{
+    text-align: center;
+    background-color:blueviolet ;
+}
+div{
+    background-color:blueviolet ;
+    margin-top: 240px;
+    display:flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+button{
+  font-size: 5rem;
+  color:rgb(42, 165, 46);
+  width: 200px;
+  height: 200px;
+}
+.a{
+    background-image: url(photo-1.jpg);
+    background-size: contain;
+}
+ .b{
+  background-image: url(photo-2.jpg);
+    background-size: contain;
+}
+.c{
+  background-image: url(photo-3.jpg);
+    background-size: contain;
+}
+.d{
+  background-image: url(photo-4.jpg);
+    background-size: contain;
+} 
+.x{
+  background-image: url(photo-5.jpg);
+  background-size: contain;
+}
+.z{
+  background-image: url(photo-6.jpg);
+  background-size: contain;
+}
+.pressed{
+ 
+  box-shadow:5px 10px #200787 ;
+  opacity:0.4;
+}
