@@ -5,9 +5,9 @@
 div{
     background-color:blueviolet ;
     margin-top: 240px;
-    display:flex;
-    justify-content: center;
-    justify-content: space-between;
+    border-radius:5px;
+    display: flex;
+    gap:6px;
 }
 button{
   font-size: 5rem;
